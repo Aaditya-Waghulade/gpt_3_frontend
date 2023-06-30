@@ -1,0 +1,9 @@
+.gpt3__brands{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gpt3__brands img{
+    margin: 10px;
+    padding: 10px;
+}
